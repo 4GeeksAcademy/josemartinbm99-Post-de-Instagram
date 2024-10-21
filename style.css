@@ -1,0 +1,45 @@
+body{
+    background: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20%;
+    margin-top: 20%;
+  }
+  .post-header, .post-icon, .post-body{
+    background: white;
+  }
+  .post-img img{
+    width: 100%;
+  }
+  .post-header{
+    padding: 0px;
+    display: flex;
+  }
+  .post-header .image-1{
+    padding-top: 25px;
+    padding-right: 5px;
+    padding-left: 10px;
+  }
+  .post-header .image-2{
+    padding-top: 25px;
+    padding-left: 76%;
+  }
+  span{
+    font-weight: lighter;
+  }
+  .post-body-images{
+    padding: 10px;
+    padding-left: 10px;
+  }
+  .image-3, .image-4, .image-5{
+    padding-left: 5px;
+  }
+  .image-6{
+    float: right;
+  }
+  p{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+  }
+  
